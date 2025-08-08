@@ -1,5 +1,5 @@
 {
-  "version": "2.3.0",
+  "version": "2.4.0",
   "url": "https://github.com/BelRoy/updaters/releases/download/v.2.4.0/update.zip",
    "changelog": [
     "🔧 Додано підтримку Gmail SMTP OAuth2",
@@ -7,6 +7,7 @@
     "🐛 Виправлено баги"
   ]
 }
+
 
 
 
