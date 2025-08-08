@@ -1,12 +1,13 @@
 {
   "version": "2.4.0",
-  "url": "https://github.com/BelRoy/updaters/releases/download/v.2.2.0/update.zip",
+  "url": "https://github.com/BelRoy/updaters/releases/download/v.2.4.0/update.zip",
    "changelog": [
     "🔧 Додано підтримку Gmail SMTP OAuth2",
     "📦 Оптимізовано систему оновлень",
     "🐛 Виправлено баги"
   ]
 }
+
 
 
 
