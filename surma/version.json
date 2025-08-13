@@ -1,12 +1,11 @@
 {
-  "version": "2.4.2",
-  "url": "https://github.com/BelRoy/updaters/releases/download/v.2.4.2/update.zip",
+  "version": "2.4.3",
+  "url": "https://github.com/BelRoy/updaters/releases/download/v.2.4.3/update.zip",
    "changelog": [
- "Додано календар планів",
-"Додано чорновик",
-"Додано creds для першочергової відправки (треба міняти на свої)"
+ "випралено цикл надсилання"
   ]
 }
+
 
 
 
