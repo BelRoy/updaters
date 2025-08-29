@@ -1,10 +1,14 @@
 {
-  "version": "2.4.7",
-  "url": "https://github.com/BelRoy/updaters/releases/download/v.2.4.7/update.zip",
+  "version": "2.4.8",
+  "url": "https://github.com/BelRoy/updaters/releases/download/v.2.4.8/update.zip",
    "changelog": [
- "випралено цикл надсилання"
+"Додано відео інструкцію налаштування SMS",
+"Нові UI",
+"Оновлений оновлювач"
+
   ]
 }
+
 
 
 
