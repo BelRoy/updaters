@@ -1,14 +1,17 @@
 {
-  "version": "2.5.4",
-  "url": "https://github.com/BelRoy/updaters/releases/download/v.2.5.4/update.zip",
+  "version": "2.5.5",
+  "url": "https://github.com/BelRoy/updaters/releases/download/v.2.5.5/update.zip",
    "changelog": [
 "Додано відео інструкцію налаштувань",
 "Нові UI",
 "Виправлно міноріні баги",
-"Оновлений оновлювач"
+"Оновлений оновлювач",
+"Акутальний навантажувач мережі",
+"Новий балансувальник"
 
   ]
 }
+
 
 
 
