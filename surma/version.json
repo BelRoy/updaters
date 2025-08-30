@@ -1,14 +1,15 @@
 {
-  "version": "2.5.3",
-  "url": "https://github.com/BelRoy/updaters/releases/download/v.2.5.3/update.zip",
+  "version": "2.5.4",
+  "url": "https://github.com/BelRoy/updaters/releases/download/v.2.5.4/update.zip",
    "changelog": [
-"Додано відео інструкцію налаштування SMS",
+"Додано відео інструкцію налаштувань",
 "Нові UI",
 "Виправлно міноріні баги",
 "Оновлений оновлювач"
 
   ]
 }
+
 
 
 
