@@ -1,6 +1,6 @@
 {
-  "version": "2.6.0",
-  "url": "https://github.com/BelRoy/updaters/releases/download/v.2.6.0/update.zip",
+  "version": "2.7.0",
+  "url": "https://github.com/BelRoy/updaters/releases/download/v.2.7.0/update.zip",
    "changelog": [
 "Додано відео інструкцію налаштувань",
 "Нові UI",
@@ -9,6 +9,7 @@
 "Акутальний навантажувач мережі"
   ]
 }
+
 
 
 
