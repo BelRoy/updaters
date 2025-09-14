@@ -1,17 +1,17 @@
 {
-  "version": "2.9.0",
-  "url": "https://github.com/BelRoy/updaters/releases/download/v.2.9.0/update.zip",
+  "version": "2.9.1",
+  "url": "https://github.com/BelRoy/updaters/releases/download/v.2.9.1/update.zip",
    "changelog": [
-"Нові UI",
 "Виправлно міноріні баги",
-"Режим реального часу SMS",
-"Зупинка, відміна та продовження надсилання SMS",
-"Введеня логу та отримання запиту для статусу номерів",
+"Асинхроні зміни відправки",
+"Нові job для відправки",
+"Паралелізм відправки",
 "Асинхроний режим",
 "Антитротлінг, 429 статус, API call-back"
 
   ]
 }
+
 
 
 
